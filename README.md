@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammad Nabeel</h1>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nabeel0209&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p> <h1 align="center">Hi 👋, I'm Muhammad Nabeel</h1>
 <h3 align="center">A passionate learner aiming to become a Full Stack Web Developer 🚀</h3>
 
 ---
@@ -54,10 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nabeel0209&show_icons=true&theme=radical" alt="Stats" />
   <img src="https://streak-stats.demolab.com/?user=nabeel0209&theme=radical&hide_border=true" alt="Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeel0209&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nabeel0209&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
