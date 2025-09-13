@@ -11,7 +11,7 @@
 
 - 💻 I work with:
   - **HTML5**, **CSS3**, **JavaScript**, **Tailwind CSS**
-  - **Bootstrap**, **Figma**, **Git**, **React**, **Firebase**, and **Python**
+  - **Bootstrap**, **Figma**, **Git**, **React**, **TypeScript**, **Firebase**, **Supabase**, and **Python**
 
 - 📫 How to reach me: **muhammadnabeel0209@gmail.com**
 
@@ -35,6 +35,9 @@
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescript.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
